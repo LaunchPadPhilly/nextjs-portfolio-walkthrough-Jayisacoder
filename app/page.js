@@ -5,11 +5,11 @@ export default function Home() {
     <div className="min-h-screen flex items-center justify-center p-8">
       <div className="max-w-4xl text-center">
         <h1 className="text-6xl font-bold mb-6 text-gray-900">
-          Hi, I&apos;m a Developer!
+          Hi, I&apos;m Jeremy Green!
         </h1>
         
         <p className="text-xl text-gray-600 mb-8">
-          Welcome to my portfolio! I&apos;m passionate about building amazing web applications and learning new technologies.
+          Great projects come with tenacity and patience. Welcome to my portfolio!
         </p>
 
         <div className="flex gap-4 justify-center mb-8">

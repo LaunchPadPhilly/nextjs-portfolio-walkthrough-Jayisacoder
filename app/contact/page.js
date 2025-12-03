@@ -14,8 +14,8 @@ export default function Contact() {
               <span className="text-3xl">📧</span>
               <div>
                 <p className="font-bold text-gray-900">Email</p>
-                <a href="mailto:developer@example.com" className="text-blue-500 hover:underline">
-                  developer@example.com
+                <a href="mailto:jgree0075@launchpadphilly.org" className="text-blue-500 hover:underline">
+                  jgree0075@launchpadphilly.org
                 </a>
               </div>
             </div>
@@ -24,8 +24,8 @@ export default function Contact() {
               <span className="text-3xl">🔗</span>
               <div>
                 <p className="font-bold text-gray-900">LinkedIn</p>
-                <a href="https://linkedin.com/in/yourprofile" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
-                  linkedin.com/in/yourprofile
+                <a href="https://www.linkedin.com/in/jeremy-green-4b9313319/" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+                  linkedin.com/in/jeremy-green-4b9313319
                 </a>
               </div>
             </div>
@@ -34,21 +34,12 @@ export default function Contact() {
               <span className="text-3xl">💻</span>
               <div>
                 <p className="font-bold text-gray-900">GitHub</p>
-                <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
-                  github.com/yourusername
+                <a href="https://github.com/Jayisacoder" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
+                  github.com/Jayisacoder
                 </a>
               </div>
             </div>
 
-            <div className="flex items-center gap-4">
-              <span className="text-3xl">🐦</span>
-              <div>
-                <p className="font-bold text-gray-900">Twitter</p>
-                <a href="https://twitter.com/yourhandle" target="_blank" rel="noopener noreferrer" className="text-blue-500 hover:underline">
-                  @yourhandle
-                </a>
-              </div>
-            </div>
           </div>
         </div>
 
@@ -73,7 +64,7 @@ export default function Contact() {
         <div className="bg-green-50 border-2 border-green-200 rounded-lg p-6">
           <h3 className="font-bold text-green-900 mb-2">💡 Optional Enhancements:</h3>
           <ul className="text-green-800 space-y-1">
-            <li>• Add a contact form (we'll learn this in Week 4!)</li>
+            <li>• Add a contact form (we&apos;ll learn this in Week 4!)</li>
             <li>• Include your location or timezone</li>
             <li>• Add social media icons</li>
             <li>• List your availability for projects</li>

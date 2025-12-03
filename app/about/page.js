@@ -13,9 +13,10 @@ export default function About() {
             <div className="flex-1">
               <h2 className="text-3xl font-bold mb-4">Hello!</h2>
               <p className="text-lg text-gray-700 leading-relaxed">
-                I&apos;m a passionate developer learning to build modern web applications. 
-                I love exploring new technologies and creating projects that solve real-world problems. 
-                Currently diving deep into Next.js and React to build amazing user experiences.
+                I&apos;m Jeremy Green, a dedicated Launchpad Philly intern with a passion for technology and hardware troubleshooting. 
+                I love diagnosing and fixing hardware issues, whether it&apos;s a malfunctioning computer or a broken gadget. 
+                I&apos;m constantly learning and building my skills in both software development and hardware repair, 
+                working toward a career where I can solve problems and innovate in the tech industry.
               </p>
             </div>
           </div>
@@ -25,22 +26,34 @@ export default function About() {
           <h2 className="text-3xl font-bold mb-6">My Skills</h2>
           <div className="flex flex-wrap gap-3">
             <span className="bg-blue-100 text-blue-800 px-4 py-2 rounded-full font-semibold">
-              HTML & CSS
+              Python
             </span>
-            <span className="bg-green-100 text-green-800 px-4 py-2 rounded-full font-semibold">
-              JavaScript
+            <span className="bg-orange-100 text-orange-800 px-4 py-2 rounded-full font-semibold">
+              HTML
             </span>
-            <span className="bg-purple-100 text-purple-800 px-4 py-2 rounded-full font-semibold">
-              React
-            </span>
-            <span className="bg-pink-100 text-pink-800 px-4 py-2 rounded-full font-semibold">
-              Next.js
+            <span className="bg-blue-100 text-blue-800 px-4 py-2 rounded-full font-semibold">
+              CSS
             </span>
             <span className="bg-yellow-100 text-yellow-800 px-4 py-2 rounded-full font-semibold">
-              Tailwind CSS
+              JavaScript
+            </span>
+            <span className="bg-cyan-100 text-cyan-800 px-4 py-2 rounded-full font-semibold">
+              React
+            </span>
+            <span className="bg-purple-100 text-purple-800 px-4 py-2 rounded-full font-semibold">
+              Figma
+            </span>
+            <span className="bg-pink-100 text-pink-800 px-4 py-2 rounded-full font-semibold">
+              UI Design
+            </span>
+            <span className="bg-green-100 text-green-800 px-4 py-2 rounded-full font-semibold">
+              Team Collaboration
+            </span>
+            <span className="bg-indigo-100 text-indigo-800 px-4 py-2 rounded-full font-semibold">
+              Technical Communication
             </span>
             <span className="bg-red-100 text-red-800 px-4 py-2 rounded-full font-semibold">
-              Git & GitHub
+              Project Management
             </span>
           </div>
         </div>
@@ -49,20 +62,20 @@ export default function About() {
           <h2 className="text-3xl font-bold mb-6">My Goals</h2>
           <ul className="space-y-3 text-gray-700">
             <li className="flex items-start gap-3">
-              <span className="text-2xl">🎯</span>
-              <span>Build a full-stack web application</span>
+              <span className="text-2xl">🔧</span>
+              <span>Work in hardware troubleshooting and repair</span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="text-2xl">💻</span>
+              <span>Learn all about computer systems and hardware</span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="text-2xl">🎓</span>
+              <span>Further my education in computer science and engineering</span>
             </li>
             <li className="flex items-start gap-3">
               <span className="text-2xl">🚀</span>
-              <span>Contribute to open-source projects</span>
-            </li>
-            <li className="flex items-start gap-3">
-              <span className="text-2xl">💼</span>
-              <span>Launch my own tech startup</span>
-            </li>
-            <li className="flex items-start gap-3">
-              <span className="text-2xl">📚</span>
-              <span>Master modern web development frameworks</span>
+              <span>Become a professional hardware troubleshooter</span>
             </li>
           </ul>
         </div>
