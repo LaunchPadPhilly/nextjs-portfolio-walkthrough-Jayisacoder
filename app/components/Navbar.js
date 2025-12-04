@@ -6,33 +6,27 @@ export default function Navbar() {
       <div className="max-w-6xl mx-auto px-4">
         <div className="flex justify-between items-center h-16">
           {/* Your name or logo */}
-          
+          <Link href="/" className="text-2xl font-bold hover:text-blue-400">
+            Jay's Portfolio
+          </Link>
           
           {/* Navigation links */}
           <div className="flex gap-6">
             <Link href="/" className="hover:text-blue-400">
               Home
             </Link>
-            </div>
-
-            <div className="flex gap-6">
             <Link href="/about" className="hover:text-blue-400">
               About
             </Link>
-            </div>
-
-            <div className="flex gap-6">
             <Link href="/projects" className="hover:text-blue-400">
               Projects
             </Link>
-            </div>
-            <div className="flex gap-6">
             <Link href="/contact" className="hover:text-blue-400">
               Contact
             </Link>
-            </div>
           </div>
         </div>
+      </div>
     </nav>
   )
 }
