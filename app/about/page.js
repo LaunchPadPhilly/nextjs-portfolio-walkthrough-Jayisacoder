@@ -74,7 +74,7 @@ export default function About() {
               <span>Further my education in computer science and engineering</span>
             </li>
             <li className="flex items-start gap-3">
-              <span className="text-2xl">🛠️</span>
+              <span className="text-2xl">🚀</span>
               <span>Become a professional hardware troubleshooter</span>
             </li>
           </ul>
